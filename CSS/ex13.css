@@ -1,0 +1,18 @@
+@charset "EUC-KR";
+
+table{
+	height : 150px;
+	width : 600px;
+}
+#a{
+    vertical-align:top;
+}
+#b{
+	vertical-align:middle;
+}
+#c{
+	vertical-align:bottom;
+}
+#d{
+	text-align:center;
+}

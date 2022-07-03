@@ -1,0 +1,8 @@
+@charset "EUC-KR";
+#a{
+	border-collapse:separate;
+}
+#b{
+	border-collapse:collapse;
+	
+}

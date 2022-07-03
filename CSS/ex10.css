@@ -1,0 +1,14 @@
+@charset "EUC-KR";
+
+#p1{         /*한줄나열가능 시계방향으로 위>오른>아래>왼 */
+	border-style : solid dotted dashed double;
+}
+#p2{
+	border-style : solid;
+	border-color : red green blue yellow;
+    border-width : 10px;
+}
+#p3{
+	border-style : solid;
+	border-width : 1px 3px 5px 7px;
+}

@@ -1,0 +1,9 @@
+@charset "EUC-KR";
+#a{
+	text-align:center;
+}
+body{
+	background-image:url("D:/01-STUDY/백종영/css연습/image/mugunghwa.png");
+	background-repeat:no-repeat;
+	background-position:center center;
+}

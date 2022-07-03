@@ -1,0 +1,10 @@
+@charset "EUC-KR";
+tr:nth-child(3n){
+	background:yellow;
+}
+tr:nth-child(3n+1){
+	background:orange;
+}
+tr:nth-child(2n+2){
+	background:red;
+}

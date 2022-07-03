@@ -1,0 +1,13 @@
+@charset "EUC-KR";
+#login{
+	border-collapse:collapse;
+	float:left;
+	width:100px;
+	height:150px;
+	margin:20px;
+	text-align:left;
+	background:#B2EBF4;
+	}
+#main{
+	padding:10px;
+}	

@@ -1,0 +1,23 @@
+@charset "EUC-KR";
+
+#p1{
+	border-style:solid;
+    border-color:green;
+}
+#p2{
+	border-style:dotted;
+	border-color:red;
+	border-width:7px;
+}
+#p3{
+	border-style:dotted;
+	border-color:red;
+}
+#p4{
+	border-style:double;
+	border-width:10px;
+}
+#p5{
+	border-style:solid;
+	border-width:2px;
+}

@@ -1,0 +1,16 @@
+@charset "EUC-KR";
+#p1{
+	text-align : left;
+}
+#p2{
+	text-align : center;
+}
+#p3{
+	text-align : right;
+}
+#p4{
+	text-align : justify;
+}
+#p5{
+	text-align : left;
+}

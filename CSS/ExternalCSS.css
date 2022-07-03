@@ -1,0 +1,24 @@
+@charset "EUC-KR";
+/* 태그 선택자 p태그에 글자색(color)을 빨간색(red)으로 적용 */
+/*
+선택자 {
+     속성:값
+}
+*/
+ p{
+ color:red;
+}
+/* 클래스 선택자: class의 값이 hi인 것에 배경색(backgroung -color)을 초록색(green)으로 적용*/
+.hi{
+    background:green; color:yellow;
+}
+/* id 선택자 : id의 값이 h3 인것에 글자색을 회색(gray)으로하고 , class의 값이 hello 인 것에
+             class의 값이 hello인것은 배경색을 검정으로 적용*/
+#hi3 {
+    color:gray;
+}
+
+<p id="hi1" class="hi">안녕하세요.</p>
+<p id="hi2" class="hi">안녕.</p>
+<p id="hi3" class="hello">hi.</p>
+<p id="hi4" class="hello">hello.</p>

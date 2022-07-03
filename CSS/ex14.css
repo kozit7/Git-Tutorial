@@ -1,0 +1,13 @@
+@charset "EUC-KR";
+#a{
+	padding : 0px;	
+	border : 20px solid blue;
+    width : 300px;
+    background : yellow;
+}
+#b{
+	padding : 0px;	
+	border : 20px solid blue;
+    width : 280px;
+    background : yellow;
+}

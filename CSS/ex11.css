@@ -1,0 +1,12 @@
+@charset "EUC-KR";
+h1{
+	background:yellow;
+	border-style:solid;
+	padding:10px;
+}
+#a{
+	border-radius : 10px;
+}
+#b{
+	border-radius : 20px;
+}

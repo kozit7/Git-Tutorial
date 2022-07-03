@@ -1,0 +1,15 @@
+@charset "EUC-KR";
+img{
+	width:100px;
+	htight:100px;
+	position:absolute;
+	left:25px;
+	top:25px;
+	
+}
+#b{
+	position: relative;
+	width:150px;
+	height:150px;
+	background : blue;
+}

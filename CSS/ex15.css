@@ -1,0 +1,15 @@
+@charset "EUC-KR";
+#a{
+	text-shadow : 3px 3px gray;
+}
+#b{
+	text-shadow : 3px 3px 5px gray;
+}
+#c{
+	text-shadow : -3px -3px 5px red;
+}
+#d{
+	color : red;
+	text-shadow : 0px 0px yellow;
+	background : black;
+}
